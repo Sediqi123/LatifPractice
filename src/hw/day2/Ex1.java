@@ -10,5 +10,10 @@ public class Ex1 {
 		
 		
 	}
+	
+	public static void getInfo() {
+		System.out.println("I am from Afghanistan");
+		
+	}
 
 }
